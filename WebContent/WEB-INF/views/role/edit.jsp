@@ -88,7 +88,7 @@
                             </div>
                             <div class="form-group">
                                 <button type="submit" class="btn btn-success">Lưu lại</button>
-                                <a class="btn btn-secondary" href="role-list.html">Quay lại</a>
+                                <a class="btn btn-secondary" href="<%= request.getContextPath() %>/role">Quay lại</a>
                             </div>
                         </div>
                     </div>
